@@ -1,0 +1,4 @@
+1. Include Bootstrap’s CSS and JS.
+2. the first div inside nav, remore fluid just keep container
+3. ul cls ms-auto(means margin start)
+4. ul > > li remove actice cls
